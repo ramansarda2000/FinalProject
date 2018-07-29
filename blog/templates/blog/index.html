@@ -1,7 +1,7 @@
 {% if latest_blog_list %}
     <ul>
     {% for blog in latest_blog_list %}
-        <li><a href="/blog/{{ blog.id }}/">{{ blog.title }}</a></li>
+        <li style="font-size: 200%"><a href="/blog/{{ blog.id }}/">{{ blog.title }}</a></li>
     {% endfor %}
     </ul>
 {% else %}
