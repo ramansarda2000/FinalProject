@@ -27,7 +27,7 @@ username : The_LoudSpeaker
 password : iamraman
 
 
-## Question Moderator:
+## Polls Moderator:
 
 username : raman
 
