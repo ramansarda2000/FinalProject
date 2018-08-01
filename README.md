@@ -1,4 +1,4 @@
-# FinalProject
+.# FinalProject
 This is the final project for SUTT
 
 This project completes both objectives:
@@ -22,7 +22,7 @@ password : iamraman
 
 ## Blog Moderator:
 
-username : The_LoudSpeaker
+username : The_Loud.Speaker
 
 password : iamraman
 
